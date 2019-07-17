@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sand
+  - Borders
+  - Fish
+  - Surface
+  - Bobber
+  - Hook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Surface
+  - Bobber
+  - Hook
+  - Fish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2926198823
+    locked: 0
+  - name: Plants
+    uniqueID: 1383425301
+    locked: 0
+  - name: Rocks
+    uniqueID: 3969205531
+    locked: 0
+  - name: Foreground
+    uniqueID: 571871619
+    locked: 0
+  - name: Player
+    uniqueID: 3684953573
+    locked: 0
+  - name: UI
+    uniqueID: 609335085
+    locked: 0

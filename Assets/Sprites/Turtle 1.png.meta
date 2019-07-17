@@ -1,0 +1,1519 @@
+fileFormatVersion: 2
+guid: ca81d50298d36456285de93cad37c686
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2718718393251661553
+    second: Turtle 1_0
+  - first:
+      213: 807780328271244719
+    second: Turtle 1_1
+  - first:
+      213: 4376290799620053203
+    second: Turtle 1_2
+  - first:
+      213: -4970421961405163079
+    second: Turtle 1_3
+  - first:
+      213: 2897772122216728901
+    second: Turtle 1_4
+  - first:
+      213: -6437492725995303830
+    second: Turtle 1_5
+  - first:
+      213: -245259664228744317
+    second: Turtle 1_6
+  - first:
+      213: -1219826434407064926
+    second: Turtle 1_7
+  - first:
+      213: 7106998779252930769
+    second: Turtle 1_8
+  - first:
+      213: 7103647252628140103
+    second: Turtle 1_9
+  - first:
+      213: 8165724055203206041
+    second: Turtle 1_10
+  - first:
+      213: 7823873856518623226
+    second: Turtle 1_11
+  - first:
+      213: -1901210273774304681
+    second: Turtle 1_12
+  - first:
+      213: -8115216770424243864
+    second: Turtle 1_13
+  - first:
+      213: -3974082928513200477
+    second: Turtle 1_14
+  - first:
+      213: 2665918624404191164
+    second: Turtle 1_15
+  - first:
+      213: -3930546067744247305
+    second: Turtle 1_16
+  - first:
+      213: -6189920426698603566
+    second: Turtle 1_17
+  - first:
+      213: -1810890592803405497
+    second: Turtle 1_18
+  - first:
+      213: 1970749193390913377
+    second: Turtle 1_19
+  - first:
+      213: 2874072985406378423
+    second: Turtle 1_20
+  - first:
+      213: -2525062947262930149
+    second: Turtle 1_21
+  - first:
+      213: 406258906006919932
+    second: Turtle 1_22
+  - first:
+      213: 1072245102993328009
+    second: Turtle 1_23
+  - first:
+      213: 6836118297158288903
+    second: Turtle 1_24
+  - first:
+      213: -1638257038373371659
+    second: Turtle 1_25
+  - first:
+      213: 6239132615889524698
+    second: Turtle 1_26
+  - first:
+      213: -5549957298338290123
+    second: Turtle 1_27
+  - first:
+      213: -1535859921425091636
+    second: Turtle 1_28
+  - first:
+      213: -6478648132745137946
+    second: Turtle 1_29
+  - first:
+      213: -8690649402429905344
+    second: Turtle 1_30
+  - first:
+      213: -2227216053974558313
+    second: Turtle 1_31
+  - first:
+      213: -8003460225504990322
+    second: Turtle 1_32
+  - first:
+      213: -7040834745172262313
+    second: Turtle 1_33
+  - first:
+      213: 8736913057364636705
+    second: Turtle 1_34
+  - first:
+      213: 1418978455168062860
+    second: Turtle 1_35
+  - first:
+      213: -3467250735697869277
+    second: Turtle 1_36
+  - first:
+      213: -408630892427366223
+    second: Turtle 1_37
+  - first:
+      213: 649139857826477170
+    second: Turtle 1_38
+  - first:
+      213: -1481964939019651169
+    second: Turtle 1_39
+  - first:
+      213: -8042550099104582793
+    second: Turtle 1_40
+  - first:
+      213: -9122211999332475596
+    second: Turtle 1_41
+  - first:
+      213: 1212846412663305704
+    second: Turtle 1_42
+  - first:
+      213: 4992512872859697119
+    second: Turtle 1_43
+  - first:
+      213: 4251798577767476739
+    second: Turtle 1_44
+  - first:
+      213: 1209293796983041450
+    second: Turtle 1_45
+  - first:
+      213: 8975864907241738747
+    second: Turtle 1_46
+  - first:
+      213: -8809456346134599626
+    second: Turtle 1_47
+  - first:
+      213: 5669647356290481634
+    second: Turtle 1_48
+  - first:
+      213: 3774699236662602561
+    second: Turtle 1_49
+  - first:
+      213: 3019941794675610058
+    second: Turtle 1_50
+  - first:
+      213: -8490373993714616481
+    second: Turtle 1_51
+  - first:
+      213: -421275425804636459
+    second: Turtle 1_52
+  - first:
+      213: -9053887541037392344
+    second: Turtle 1_53
+  - first:
+      213: 2021642419975138741
+    second: Turtle 1_54
+  - first:
+      213: 7030533633015379382
+    second: Turtle 1_55
+  - first:
+      213: 1251996100502296380
+    second: Turtle 1_56
+  - first:
+      213: -3976887869565424999
+    second: Turtle 1_57
+  - first:
+      213: 1199784218328173592
+    second: Turtle 1_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turtle 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42292e96b831146e2bce4bbf54c2ca96
+      internalID: -2718718393251661553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 642
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510ef21e2d2042caa2c6fd1fe917614
+      internalID: 807780328271244719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 642
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a8011316754c288d5d9ab6f40bdef
+      internalID: 4376290799620053203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 642
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ad320311e54c899c0d6efaa335781
+      internalID: -4970421961405163079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 642
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3f2ce06c0e484dab25bcf95eb79ea
+      internalID: 2897772122216728901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 642
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba89d4df27045669aa9739d382b6d0
+      internalID: -6437492725995303830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 642
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9280e92bdc2c44548abdf90f1de3e2d
+      internalID: -245259664228744317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 642
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d68f1eaf71d42d6b937e3f4e0817c7
+      internalID: -1219826434407064926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 642
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed03d8b048ffa46a59b4a2493e581118
+      internalID: 7106998779252930769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 642
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd37f381eee4cdd9af70569ccdef44
+      internalID: 7103647252628140103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 642
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5134871f524682b59a88114c216e1
+      internalID: 8165724055203206041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_11
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 642
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b417ad71d934a33ad84714ad5e9329
+      internalID: 7823873856518623226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 559
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d6680b00da48d48134c45b5738da8
+      internalID: -1901210273774304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 559
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447996d56172e4fbb84ca3e2906b0e45
+      internalID: -8115216770424243864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 559
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9dc81691d4c4fbf999f9ae9dc14b64
+      internalID: -3974082928513200477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 559
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8330adb2a27c49efb406baee14dcbee
+      internalID: 2665918624404191164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_16
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 559
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71efc16925e8440a982b6a20f67652c
+      internalID: -3930546067744247305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 559
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06706844ad518456a875c17842e48157
+      internalID: -6189920426698603566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 492
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a7a4e7cee648788b2f33940a4ebc3
+      internalID: -1810890592803405497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 463
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f19f50648df49adb78c5b0ceab5400
+      internalID: 1970749193390913377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 414
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be508c7e0a4214301b148eee1659fd97
+      internalID: 2874072985406378423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 472
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3e4458be8d4258b1a82592fedc3a2
+      internalID: -2525062947262930149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 472
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0de3964709495d9059b5ab11ab04b
+      internalID: 406258906006919932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 475
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ad0fc45adb4b7ba23c511941323e4
+      internalID: 1072245102993328009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 472
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb444b97b8246f3a59f84eec59af97
+      internalID: 6836118297158288903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 475
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbcf63ed480f45b4810c17f3b37fd36
+      internalID: -1638257038373371659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 456
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d84da79b1444ff9c0562d5570a06d
+      internalID: 6239132615889524698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 456
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a011d0d93e7486d99264e9a72eafc5
+      internalID: -5549957298338290123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 456
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca807f383d4641fb879dca11c34c210
+      internalID: -1535859921425091636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 456
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fa4b19f743841b8a9d5a0549ecf4f7
+      internalID: -6478648132745137946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 456
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4769c6d32e84657bd9c5c526b95d6b
+      internalID: -8690649402429905344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 456
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd2307a3fa84072891aef9bf7fb29e
+      internalID: -2227216053974558313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 435
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b579d7d9f641908b2d173641e8201
+      internalID: -8003460225504990322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 332
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e99a3cb9907485a85085c83dd5a5c9
+      internalID: -7040834745172262313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e813c4e2474b45b6b254a30539f230f
+      internalID: 8736913057364636705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5aed13e634645f79cc70a3144e152b
+      internalID: 1418978455168062860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da3f5fd1f9243fabb6e642cc77dfaf
+      internalID: -3467250735697869277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15db8257b4fe4ffcb0a3cfde2c78a42
+      internalID: -408630892427366223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 332
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b871c831bc04b32b95f453cc820ac5
+      internalID: 649139857826477170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 332
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832c3928e09843cfae39cdbd51e7ed1
+      internalID: -1481964939019651169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 332
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92201788abad04f7a851f7127f68c4ad
+      internalID: -8042550099104582793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_41
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 332
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67099ce8c2c4a6ba20715f48b771be
+      internalID: -9122211999332475596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_42
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 339
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3775c7bba3d942e5835d2c7fb10d7bf
+      internalID: 1212846412663305704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 332
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d7a117cb5248a8adf7909c2b25e3a
+      internalID: 4992512872859697119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_44
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 332
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4bf3d0239e44ae7a30f81a68dc78a2
+      internalID: 4251798577767476739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_45
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b1243c81874eb3aeb15ad39a9b882
+      internalID: 1209293796983041450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_46
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 332
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510b782bc763462f8ffabc052e088ed
+      internalID: 8975864907241738747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c07ba298484880806afebfbc1a87f
+      internalID: -8809456346134599626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785ffbccaec84efab0ca02bbdef7593
+      internalID: 5669647356290481634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32946fab43e441d9408df34da074b9
+      internalID: 3774699236662602561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7e0e73e35a4fe1ab97680cd0d5446
+      internalID: 3019941794675610058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db61f6b52cff4997aafed40c24dadda
+      internalID: -8490373993714616481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c803449d92374b9a8daa22922fbf0bd
+      internalID: -421275425804636459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952b0f22e55f4adc9024c1b1f0d191b
+      internalID: -9053887541037392344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e14e35566f64921aa87bd2c7508715
+      internalID: 2021642419975138741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c861c1f0c63754ba7aa553686b238d1a
+      internalID: 7030533633015379382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733c3393bd2543d9b1326d18ceefcf8
+      internalID: 1251996100502296380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_57
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e7c1adc556f40568ae5b94b11d0024
+      internalID: -3976887869565424999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle 1_58
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 9
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740ff690889340ca83767f48e213a1e
+      internalID: 1199784218328173592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
